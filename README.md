@@ -1,3 +1,7 @@
+<!-- PORTFOLIO-ENTRY:BEGIN -->
+> **Agent entry:** Before acting on this repository or a document within it, read [AGENTS.md](AGENTS.md), then the current [portfolio canon and map](https://github.com/Hotsubs2/hogan-wagner-portfolio). Follow repository-specific scope and current work; leave evidence and a handoff.
+<!-- PORTFOLIO-ENTRY:END -->
+
 # Second Brain Starter
 
 A notebook that backs itself up, and the rules any AI follows when it works for you.

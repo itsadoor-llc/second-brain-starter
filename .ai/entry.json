@@ -1,0 +1,13 @@
+{
+  "schema": "portfolio-entry/1",
+  "portfolio": "Hotsubs2/hogan-wagner-portfolio",
+  "repository": "itsadoor-llc/second-brain-starter",
+  "mode": "private-pointer",
+  "canon_sha256": null,
+  "order": [
+    "portfolio-canon-map",
+    "repository-scope-current-work",
+    "authorized-action",
+    "evidence-handoff"
+  ]
+}

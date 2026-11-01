@@ -1,3 +1,13 @@
+<!-- PORTFOLIO-ENTRY:PUBLIC -->
+# Agent entry
+
+Authorized portfolio agents: load the current private CANON.md and MAP.md from https://github.com/Hotsubs2/hogan-wagner-portfolio before acting. Read repository-specific rules and the current assignment, run checks locally, and record evidence and a handoff. If you cannot access that private source, report the gap; this pointer grants no access. Private canon contents are deliberately not published here.
+
+<!-- REPOSITORY:BEGIN -->
+## This repository
+
+Rules found only in this repository, kept word for word when the canon was stamped. Text the canon already says, and text repeated across repositories by the retired process, was removed.
+
 # Rules for any AI working here
 
 This repository is the owner's Obsidian vault and the home of the rules for every repository the owner keeps. Any AI may work here. Codex and most tools read this file directly; Claude reads `CLAUDE.md`, Gemini CLI reads `GEMINI.md`, Copilot reads `.github/copilot-instructions.md`, Cursor reads `.cursor/rules/`, and all of those point here. No tool is chosen, and two may work on the same day on different branches.
@@ -30,3 +40,8 @@ For work longer than an afternoon, write a GitHub issue first (title = the outco
 - `private/` is ignored by Git. Never move its contents into a tracked note.
 - Obsidian on the owner's computer commits and pushes to `main` automatically. That is the owner writing. An AI still works on a branch. Before opening a pull request, pull `main`; if a note in the branch also changed on `main`, keep both versions and stop.
 - To create a new repository, follow `System/New Project Recipe.md` and copy `System/repo-template/`.
+
+### Carried from .github/copilot-instructions.md
+
+Read `AGENTS.md` before changing anything. It holds the seven rules: GitHub is the record; read before you act; branch and use a PR rather than a direct `main` push; follow the actual owner's documented source merge policy and ask a direct yes/no question with plain-language consequences for a conflict or missing delegation; nothing secret or private about others; small honest changes; leave the next step in the pull request; stop and ask when unsure.
+<!-- REPOSITORY:END -->
